@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SignIn</string>
+    <string name="facebook_application_id" translatable="false">231648887241822</string>
+</resources>

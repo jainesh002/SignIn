@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "716170695873",
+    "firebase_url": "https://signin-3dc08.firebaseio.com",
+    "project_id": "signin-3dc08",
+    "storage_bucket": "signin-3dc08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716170695873:android:593c5bce91cceac5",
+        "android_client_info": {
+          "package_name": "com.example.radha.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716170695873-uhds574i1quj0jr178qulcpavrubgsgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.radha.signin",
+            "certificate_hash": "8eeb48c450af2d9689f7bba81f906796f78c28ef"
+          }
+        },
+        {
+          "client_id": "716170695873-4ci4av69alm325v5l97dd6nn2tdlg8mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnt21jUXDnaBMWdX5F-PI184Fc9yCWLmU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716170695873-4ci4av69alm325v5l97dd6nn2tdlg8mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
